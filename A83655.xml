@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A committee appointed by the Commons assembled in Parliament, to consider of such grievances as have been promised to the people to be redressed; and of such ease as is fit to be given in relation to their burthens, their freedoms and liberties, of reforming of courts of justice, and proceedings at law, and in matters of trade, and of all other things of publique concernment. Die Sabbathi, 8 Januarii, 1647. Ordered by the Commons in Parliament assembled, that the committee appointed to consider of publique grievances, shall have power to send for parties, witnesses, papers, records; and that the said committee and order to them be forthwith printed. H: Elsynge, Cler. Parl. D. Com.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83655</idno><idno type="EEBO-CITATION">99864268</idno>
+  <idno type="VID">116493</idno>
+  <idno type="EEBO-PROQUEST">2240909618</idno>
+  
+            <idno type="STC">Wing E2539</idno>
+            <idno type="STC">Thomason E422_19</idno>
+            <idno type="STC">ESTC R204806</idno>
+            <idno type="PROQUEST">99864268</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864268e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83655)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116493)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E422[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A committee appointed by the Commons assembled in Parliament, to consider of such grievances as have been promised to the people to be redressed; and of such ease as is fit to be given in relation to their burthens, their freedoms and liberties, of reforming of courts of justice, and proceedings at law, and in matters of trade, and of all other things of publique concernment. Die Sabbathi, 8 Januarii, 1647. Ordered by the Commons in Parliament assembled, that the committee appointed to consider of publique grievances, shall have power to send for parties, witnesses, papers, records; and that the said committee and order to them be forthwith printed. H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, Printer to the Honorable House of Commons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Jan. 11. 1647 [i.e. 1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament. --  House of Commons --  Committees --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116493:1"/>
+            <p> A COMMITTEE Appointed by the COMMONS Assembled in Parliament, To consider of such GRIEVANCES as have been promised to the People to be redressed; And of such Ease as is fit to be given in relation to their Burthens, their Freedoms and Liberties, OF Reforming of Courts of Justice, and Proceedings at Law, and in Matters of Trade, and of all other things of Publique concernment.</p>
+            <p>Die Sabbathi, 8 Januarii, 1647.</p>
+            <p>
+               <hi>ORdered by the Commons in Parliament assembled, That the Committee appointed to consider of pub<g ref="char:EOLhyphen"/>lique Grievances, shall have power to send for Parties, Witnesses, Papers, Records; And that the said Committee and Order to them be forthwith printed.</hi>
+            </p>
+            <p>H: Elsynge, Cler. Parl. D. Com.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Husband,</hi> Printer to the Honorable House of Commons, <hi>Jan.</hi> 11. 1647.</p>
+            <pb facs="tcp:116493:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:116493:2"/>
+            <head>Die Martis, 4 Januarii, 1647.</head>
+            <list>
+               <item>
+                  <hi>Mr.</hi> Rigby.</item>
+               <item>
+                  <hi>Mr.</hi> Scot.</item>
+               <item>
+                  <hi>Mr.</hi> Wea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er.</item>
+               <item>
+                  <hi>Mr.</hi> M<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>n.</item>
+               <item>
+                  <hi>Mr.</hi> Ashu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st.</item>
+               <item>
+                  <hi>Col.</hi> Bi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch.</item>
+               <item>
+                  <hi>Alder.</hi> Penington.</item>
+               <item>
+                  <hi>Mr.</hi> Fenwick.</item>
+               <item>
+                  <hi>Mr.</hi> Reynolds.</item>
+               <item>
+                  <hi>Sir</hi> John Evelyn.</item>
+               <item>
+                  <hi>Sir</hi> Will: Masham.</item>
+               <item>
+                  <hi>M. Sergeant</hi> Wilde</item>
+               <item>
+                  <hi>Col.</hi> Ludlow.</item>
+               <item>
+                  <hi>Sir</hi> Tho: Wroth.</item>
+               <item>
+                  <hi>Col.</hi> Morley.</item>
+               <item>
+                  <hi>Mr.</hi> Jennour.</item>
+               <item>
+                  <hi>Mr.</hi> Nicholas.</item>
+               <item>
+                  <hi>M.</hi> Foxwist.</item>
+               <item>
+                  <hi>Mr. Solicitor.</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Knightley.</item>
+               <item>
+                  <hi>Mr.</hi> Annesley.</item>
+               <item>
+                  <hi>Mr.</hi> Salwey <hi>jun.</hi>
+               </item>
+               <item>
+                  <hi>M.</hi> Nath. Stephens</item>
+               <item>
+                  <hi>Mr.</hi> Miles Corbet.</item>
+               <item>
+                  <hi>Mr.</hi> Robert Good<g ref="char:EOLhyphen"/>wyn.</item>
+               <item>
+                  <hi>Mr.</hi> Vachel.</item>
+               <item>
+                  <hi>Mr.</hi> Trenchard.</item>
+               <item>
+                  <hi>Mr.</hi> Boys.</item>
+               <item>
+                  <hi>Mr.</hi> John Stephens.</item>
+               <pb n="4" facs="tcp:116493:3"/>
+               <item>
+                  <hi>Sir</hi> Francis Pile.</item>
+               <item>
+                  <hi>Lieut. Gen.</hi> Crom<g ref="char:EOLhyphen"/>wel.</item>
+               <item>
+                  <hi>Sir</hi> Roger North.</item>
+               <item>
+                  <hi>Mr.</hi> Wheeler.</item>
+               <item>
+                  <hi>Mr.</hi> Hallows.</item>
+               <item>
+                  <hi>Mr.</hi> Hoyl.</item>
+               <item>
+                  <hi>Mr.</hi> Hill.</item>
+               <item>
+                  <hi>Sir</hi> Will: Armyn.</item>
+               <item>
+                  <hi>Mr.</hi> Hatcher.</item>
+               <item>
+                  <hi>Sir</hi> Iohn Boucher.</item>
+               <item>
+                  <hi>Sir</hi> Edw. Hunger<g ref="char:EOLhyphen"/>ford.</item>
+               <item>
+                  <hi>Mr.</hi> Beddingfield.</item>
+               <item>
+                  <hi>Mr.</hi> Green.</item>
+               <item>
+                  <hi>Mr.</hi> Roll.</item>
+               <item>
+                  <hi>Major Gen.</hi> Skip<g ref="char:EOLhyphen"/>pon.</item>
+               <item>
+                  <hi>Mr.</hi> Boon.</item>
+               <item>
+                  <hi>Mr.</hi> Holland.</item>
+               <item>
+                  <hi>Col.</hi> Purefoy.</item>
+               <item>
+                  <hi>Sir</hi> Greg. Norton.</item>
+               <item>
+                  <hi>Mr.</hi> Pyne.</item>
+               <item>
+                  <hi>Maj. Gen.</hi> Brown.</item>
+               <item>
+                  <hi>Mr.</hi> Hay.</item>
+               <item>
+                  <hi>Mr.</hi> Chaloner.</item>
+               <item>
+                  <hi>Mr.</hi> Cawley.</item>
+               <item>
+                  <hi>Mr.</hi> Long.</item>
+               <item>
+                  <hi>Sir</hi> Edw. Partherich</item>
+               <item>
+                  <hi>Mr.</hi> Pierrepont.</item>
+               <item>
+                  <hi>Mr.</hi> Vaughan.</item>
+               <item>
+                  <hi>Mr.</hi> Swynfen.</item>
+               <item>
+                  <hi>Mr.</hi> Treavor.</item>
+               <item>
+                  <hi>Mr.</hi> Povey.</item>
+               <item>
+                  <hi>Col.</hi> Apsley.</item>
+               <item>
+                  <hi>Col.</hi> White.</item>
+               <item>
+                  <hi>Mr.</hi> Prideaux.</item>
+               <item>
+                  <hi>Sir</hi> Hen. Mildmay.</item>
+               <item>
+                  <hi>Mr.</hi> Iohn Ash.</item>
+               <item>
+                  <hi>Mr.</hi> Edw. Ash.</item>
+               <pb n="5" facs="tcp:116493:3"/>
+               <item>
+                  <hi>Sir</hi> Tho: Soam.</item>
+               <item>
+                  <hi>Mr.</hi> Aldworth.</item>
+               <item>
+                  <hi>Mr.</hi> Stockdale.</item>
+               <item>
+                  <hi>Mr.</hi> Thorp.</item>
+               <item>
+                  <hi>Sir</hi> Will: Allenson.</item>
+               <item>
+                  <hi>Mr.</hi> Hunt.</item>
+               <item>
+                  <hi>Mr.</hi> Westrow.</item>
+               <item>
+                  <hi>Mr.</hi> Rose.</item>
+               <item>
+                  <hi>Mr.</hi> Toll.</item>
+               <item>
+                  <hi>Sir</hi> Io: Treavor.</item>
+               <item>
+                  <hi>Mr.</hi> Selden.</item>
+               <item>
+                  <hi>Mr.</hi> Whittacre.</item>
+               <item>
+                  <hi>Lord</hi> Carre.</item>
+               <item>
+                  <hi>Sir</hi> Tho: Widdring<g ref="char:EOLhyphen"/>ton.</item>
+               <item>
+                  <hi>Sir</hi> Tho: Treavor.</item>
+               <item>
+                  <hi>Mr.</hi> Ellis.</item>
+               <item>
+                  <hi>Mr.</hi> Samuel Brown.</item>
+               <item>
+                  <hi>M.</hi> Richard Darley</item>
+               <item>
+                  <hi>Mr.</hi> Blakiston.</item>
+               <item>
+                  <hi>Mr.</hi> Stapilton.</item>
+               <item>
+                  <hi>Mr.</hi> Stapilton <hi>jun.</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Iones.</item>
+               <item>
+                  <hi>Mr.</hi> Crowther.</item>
+               <item>
+                  <hi>Mr.</hi> Shuttleworth.</item>
+               <item>
+                  <hi>Sir</hi> Iohn Temple.</item>
+               <item>
+                  <hi>Mr.</hi> Dodderidge.</item>
+               <item>
+                  <hi>Mr.</hi> Herbert.</item>
+               <item>
+                  <hi>Mr.</hi> Priestly.</item>
+               <item>
+                  <hi>Mr.</hi> Gell.</item>
+               <item>
+                  <hi>Sir</hi> Will: Brereton.</item>
+               <item>
+                  <hi>Col.</hi> Fleetwood.</item>
+               <item>
+                  <hi>Mr.</hi> Io. Cary.</item>
+               <item>
+                  <hi>Mr.</hi> Grove.</item>
+               <item>
+                  <hi>Mr.</hi> Anlaby.</item>
+               <item>
+                  <hi>Mr.</hi> Wingate.</item>
+               <item>
+                  <hi>Mr.</hi> Maynard.</item>
+               <item>
+                  <hi>Mr.</hi> Bulkley.</item>
+               <item>
+                  <hi>Mr.</hi> Gurdon.</item>
+               <item>
+                  <hi>Mr.</hi> Twisden.</item>
+            </list>
+            <pb n="6" facs="tcp:116493:4"/>
+            <p> This Committee is appointed to meet this Afternoon at Two of the clock in the Exchequer Chamber, so <hi>de die in diem;</hi> And the care of this bu<g ref="char:EOLhyphen"/>siness is more particularly referred to Mr. <hi>Rigby</hi> and Mr. <hi>Thomas Scot:</hi> And this Committee is to consider of such Grievances as have been promised to the People to be redressed, and of such Ease as it fit to be given in relation to their Burthens, their Freedoms and Liberties, of Reforming of Courts of Iustice, and Proceedings at Law, and in matters of Trade, and of all other things of Publique Concernment, which they shall hold fit for the good and weal of the People; And that they prepare Bills or Ordinances for the same, and present them to the House: And this Committee
+<pb n="7" facs="tcp:116493:4"/> hath Power to send for Parties, VVit<g ref="char:EOLhyphen"/>nesses, Papers, Records.</p>
+            <closer>
+               <signed>H: Elsynge, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <head>Die Sabbathi, 8 Januarii, 1647.</head>
+            <p>ORdered by the Commons in Parlia<g ref="char:EOLhyphen"/>ment assembled, That the Commit<g ref="char:EOLhyphen"/>tee appointed to consider of publique Grie<g ref="char:EOLhyphen"/>vances, shall have power to send for Par<g ref="char:EOLhyphen"/>ties, Witnesses, Papers, Records; And that the said Committee and Order to them be forthwith printed.</p>
+            <closer>
+               <signed>H: Elsynge, Cler. Parl. D. Com.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
